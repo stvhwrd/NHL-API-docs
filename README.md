@@ -18,11 +18,6 @@ I had played around with the ["old" undocumented NHL API][#old] for my [Ticker][
 4. Copy Markdown into Slate
 5. [Deploy Slate to GitHub Pages][#deploy]
 
-<br>
-</br>
-
-> <sup>*</sup>From [Taco Bell Programming](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
-
 ### Credits / Thanks
 
 I added basically nothing to this project.
@@ -48,3 +43,9 @@ I added basically nothing to this project.
 [#site]: https://steviehoward.com/NHL-API-docs
 [#mlbam]: https://github.com/MajorLeagueBaseball
 [#deploy]: https://github.com/lord/slate/wiki/deploying-slate
+
+
+<br>
+<br>
+
+> <sup>*</sup>From [Taco Bell Programming](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
