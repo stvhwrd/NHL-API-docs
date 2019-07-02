@@ -24,7 +24,7 @@ GEM
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.1)
-    ffi (1.9.23)
+    ffi (>= 1.9.24)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -94,7 +94,7 @@ GEM
     rack (>= 2.0.6)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
-      ffi (>= 0.5.0, < 2)
+      ffi (>= 1.9.24, < 2)
     redcarpet (3.4.0)
     rouge (2.0.7)
     sass (3.4.25)
